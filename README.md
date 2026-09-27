@@ -4,8 +4,7 @@
 
 The dashboard provides an interactive analysis of Blinkit's sales performance, outlet performance, item categories, fat content, outlet size, outlet location, and key business KPIs.
 
-![image alt] (https://github.com/tusharsgupta7/PowerBI-Blinkit-Sales-Analysis-Dashboard/blob/9d0f6d239e6243497f5740f8c8401b96661a1bff/Blinkit%20Dashboard%20Screenshot.png)
-
+(![imagealt](https://github.com/tusharsgupta7/PowerBI-Blinkit-Sales-Analysis-Dashboard/blob/694597477fddc50342d2ffa66d9df7c15b1c8aad/Blinkit%20Dashboard%20Screenshot.png)
 
 ---
 
